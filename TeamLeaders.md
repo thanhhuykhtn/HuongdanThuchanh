@@ -15,7 +15,7 @@ S4_3T2D | | | |
 S5_Open-Source | | | | 
 S6_Thiếu-Người | | | | 
 T1_F4 | | | | 
-T1_KSHN | | | | 
+T1_KSHN |1412323 |Lưu Quang Minh |luuquangminhbaoloc@gmail.com | https://github.com/minhmeo753
 T2_3H2D | | | | 
 T2_Open-Mind | | | | 
 T3_Share-Source | | | | 
