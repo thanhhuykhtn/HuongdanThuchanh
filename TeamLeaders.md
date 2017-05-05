@@ -3,7 +3,7 @@
 Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản GitHub
 ----------- | ----- | ------ | ----- | -------------------
 L1_devmob | | | | 
-L2_ABC | | | | 
+L2_ABC | 1412098 | Trần Văn Duy | tvduy1996@gmail.com | https://github.com/tvduy
 L3_OpenFace | | | | 
 L4_Freee | | | | 
 L5_THA-THU | | | | 
