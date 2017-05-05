@@ -5,7 +5,7 @@ Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản GitHub
 L1_devmob | | | | 
 L2_ABC | | | | 
 L3_OpenFace | | | | 
-L4_Freee | | | | 
+L4_Freee |1412086 |Nguyễn Đặng Hoài Duy |ndhduy.7798@gmail.com |ngray1747 
 L5_THA-THU | | | | 
 L6_Meow | | | | 
 L7_Uncensored | | | | 
