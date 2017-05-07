@@ -13,7 +13,7 @@ S2_ABCH2K | | | |
 S3_6cm | | | | 
 S4_3T2D | | | | 
 S5_Open-Source | | | | 
-S6_Thiếu-Người | | | | 
+S6_Thiếu-Người |1312505 |Lê Chí Tâm |lechitam505@gmail.com |lechitam 
 T1_F4 | | | | 
 T1_KSHN | | | | 
 T2_3H2D | | | | 
