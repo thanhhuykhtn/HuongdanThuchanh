@@ -16,7 +16,7 @@ S5_Open-Source | | | |
 S6_Thiếu-Người | | | | 
 T1_F4 | | | | 
 T1_KSHN | | | | 
-T2_3H2D | | | | 
+T2_3H2D |1312148|Nguyễn Thanh Đức|nthduc95@gmail.com|https://github.com/1312148
 T2_Open-Mind | | | | 
 T3_Share-Source | | | | 
 T3_OpenSource_5M | | | | 
