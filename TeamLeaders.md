@@ -8,7 +8,7 @@ L3_OpenFace | | | |
 L4_Freee | | | | 
 L5_THA-THU | | | | 
 L6_Meow | | | | 
-L7_Uncensored | | | | 
+L7_Uncensored |1412369|Lý Thành Nhân|mrfrenkyztiny@gmail.com |FrenkyzKing 
 S2_ABCH2K | | | | 
 S3_6cm | | | | 
 S4_3T2D | | | | 
