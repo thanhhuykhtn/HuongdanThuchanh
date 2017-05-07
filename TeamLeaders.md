@@ -10,7 +10,7 @@ L5_THA-THU | | | |
 L6_Meow | | | | 
 L7_Uncensored | | | | 
 S2_ABCH2K | | | | 
-S3_6cm | | | | 
+S3_6cm |1412377 |Nguyễn Tài Nhật |nguyentainhat2110@gmail.com |https://github.com/NhatNTN 
 S4_3T2D | | | | 
 S5_Open-Source | | | | 
 S6_Thiếu-Người | | | | 
