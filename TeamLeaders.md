@@ -2,7 +2,7 @@
 
 Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản GitHub
 ----------- | ----- | ------ | ----- | -------------------
-L1_devmob | | | | 
+L1_devmob |1412135 |Đỗ Đăng Đức |dodangduc196@gmail.com |dodangduc 
 L2_ABC | | | | 
 L3_OpenFace | | | | 
 L4_Freee | | | | 
