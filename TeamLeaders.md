@@ -4,7 +4,7 @@ Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản GitHub
 ----------- | ----- | ------ | ----- | -------------------
 L1_devmob | | | | 
 L2_ABC | | | | 
-L3_OpenFace | 1112136| Trần Nguyên Khánh|tmkhanh132@gmail.com | https://github.com/tmkhanh132
+L3_OpenFace | 1112136| Trần Nguyên Khánh|tmkhanh132@gmail.com | tmkhanh132
 L4_Freee | | | | 
 L5_THA-THU | | | | 
 L6_Meow | | | | 
