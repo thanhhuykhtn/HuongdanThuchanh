@@ -5,7 +5,7 @@ Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản GitHub
 L1_devmob |1412135 |Đỗ Đăng Đức |dodangduc196@gmail.com |dodangduc 
 L2_ABC | | | | 
 L2_ABC | 1412098 | Trần Văn Duy | tvduy1996@gmail.com | tvduy
-L4_Freee | | | | 
+L4_Freee |1412086 |Nguyễn Đặng Hoài Duy |ndhduy.7798@gmail.com |ngray1747 
 L5_THA-THU | | | | 
 L6_Meow | | | | 
 L7_Uncensored |1412369|Lý Thành Nhân|mrfrenkyztiny@gmail.com |FrenkyzKing 
