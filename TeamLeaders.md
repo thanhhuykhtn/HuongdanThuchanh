@@ -8,11 +8,11 @@ L3_OpenFace | | | |
 L4_Freee | | | | 
 L5_THA-THU | | | | 
 L6_Meow | | | | 
-L7_Uncensored | | | | 
+L7_Uncensored |1412369|Lý Thành Nhân|mrfrenkyztiny@gmail.com |FrenkyzKing 
 S2_ABCH2K | | | | 
 S3_6cm | | | | 
 S4_3T2D | | | | 
-S5_Open-Source | | | | 
+S5_Open-Source |1312228 |Nguyễn Văn Huấn |nguyenvanhuan243@gmail.com |tacke243 
 S6_Thiếu-Người |1312505 |Lê Chí Tâm |lechitam505@gmail.com |lechitam 
 T1_F4 | | | | 
 T1_KSHN | | | | 
