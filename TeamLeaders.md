@@ -16,7 +16,7 @@ S5_Open-Source |1312228 |Nguyễn Văn Huấn |nguyenvanhuan243@gmail.com |tacke
 S6_Thiếu-Người |1312505 |Lê Chí Tâm |lechitam505@gmail.com |lechitam 
 T1_F4 | | | | 
 T1_KSHN | | | | 
-T2_3H2D | | | | 
+T2_3H2D |1312148|Nguyễn Thanh Đức|nthduc95@gmail.com|1312148
 T2_Open-Mind | | | | 
 T3_Share-Source | | | | 
 T3_OpenSource_5M | | | | 
